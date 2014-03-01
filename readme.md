@@ -1,4 +1,5 @@
 # deep-extend
+[![Build Status](https://travis-ci.org/Zaku-eu/meteor-deep-extend.png?branch=master)](https://travis-ci.org/Zaku-eu/meteor-deep-extend)
 
 Recursive object extending.
 
