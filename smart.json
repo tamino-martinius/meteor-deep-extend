@@ -1,9 +1,0 @@
-{
-   "name": "deep-extend",
-   "description": "Recursive object extending.",
-   "homepage": "https://github.com/Zaku-eu/meteor-deep-extend",
-   "author": "Tamino Martinius <dev@zaku.eu> (http://zaku.eu)",
-   "version": "0.2.8",
-   "git": "https://github.com/Zaku-eu/meteor-deep-extend.git",
-   "packages": {}
-}
