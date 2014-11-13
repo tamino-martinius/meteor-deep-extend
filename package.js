@@ -1,7 +1,7 @@
 Package.describe({
   name: 'zaku:deep-extend',
   summary: 'Recursive object extending.',
-  version: '0.9.0',
+  version: '0.9.0_1',
   git: 'https://github.com/Zaku-eu/meteor-deep-extend.git'
 });
 
@@ -18,4 +18,5 @@ Package.onTest(function(api) {
     'tinytest'
   ], ['client', 'server']);
   api.add_files('zaku:deep-extend-tests.coffee',['client', 'server']);
+  if (api.export) api.export("deepExtend");
 });
