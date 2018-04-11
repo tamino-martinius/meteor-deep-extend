@@ -32,7 +32,7 @@
  * If you wish to clone object, simply use that:
  *  deepExtend({}, yourObj_1, [yourObj_N]) - first arg is new empty object
  */
-deepExtend = function (/*obj_1, [obj_2], [obj_N]*/) {
+deepExtend = function(/*obj_1, [obj_2], [obj_N]*/) {
     if (arguments.length < 1 || typeof arguments[0] !== 'object') {
         return false;
     }
