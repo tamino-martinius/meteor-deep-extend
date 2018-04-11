@@ -1,5 +1,6 @@
 # deep-extend
-[![Build Status](https://travis-ci.org/Zaku-eu/meteor-deep-extend.png?branch=master)](https://travis-ci.org/Zaku-eu/meteor-deep-extend)
+
+[![Build Status](https://travis-ci.org/tamino-martinius/meteor-deep-extend.png?branch=master)](https://travis-ci.org/tamino-martinius/meteor-deep-extend)
 
 Recursive object extending.
 
@@ -7,7 +8,7 @@ Port from https://github.com/unclechu/node-deep-extend
 
 ## Usage
 
-```
+```js
 var obj1 = {
     a: 1,
     b: 2,
